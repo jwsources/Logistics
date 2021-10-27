@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="carier" table="x_snc_logistics_shipments" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>carier</element>
+            <name>x_snc_logistics_shipments</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-27 18:57:46</sys_created_on>
+            <sys_id>1e7f08d8642f30107f44e7d634711e57</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>carier</sys_name>
+            <sys_package display_value="Logistics" source="x_snc_logistics">008e0898642f30107f44e7d634711e42</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Logistics">008e0898642f30107f44e7d634711e42</sys_scope>
+            <sys_update_name>sys_choice_x_snc_logistics_shipments_carier</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-27 18:57:46</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>carier</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>FedEx</label>
+            <language>en</language>
+            <name>x_snc_logistics_shipments</name>
+            <sequence>10</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-27 18:57:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9a7f08d8642f30107f44e7d634711e0b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-27 18:57:46</sys_updated_on>
+            <value>fedex</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>carier</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>UPS</label>
+            <language>en</language>
+            <name>x_snc_logistics_shipments</name>
+            <sequence>20</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-27 18:57:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5e7f08d8642f30107f44e7d634711e3a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-27 18:57:46</sys_updated_on>
+            <value>ups</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>carier</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DHL</label>
+            <language>en</language>
+            <name>x_snc_logistics_shipments</name>
+            <sequence>30</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-27 18:57:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>de7f08d8642f30107f44e7d634711e5b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-27 18:57:46</sys_updated_on>
+            <value>dhl</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

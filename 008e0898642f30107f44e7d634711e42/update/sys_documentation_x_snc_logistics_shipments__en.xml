@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Shipments" language="en" table="x_snc_logistics_shipments">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Shipments</label>
+            <language>en</language>
+            <name>x_snc_logistics_shipments</name>
+            <plural>Shipments</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-27 18:54:06</sys_created_on>
+            <sys_id>b0aec898642f30107f44e7d634711e20</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Shipments</sys_name>
+            <sys_package display_value="Logistics" source="x_snc_logistics">008e0898642f30107f44e7d634711e42</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Logistics">008e0898642f30107f44e7d634711e42</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_logistics_shipments__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-27 18:54:06</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
