@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter">
+    <sys_sg_item_parameter action="INSERT_OR_UPDATE">
+        <default_value/>
+        <name>Shipments deliver_date</name>
+        <parent>6378d854646f30107f44e7d634711e58</parent>
+        <parent_table>sys_sg_write_back_action_item</parent_table>
+        <sys_class_name>sys_sg_item_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-27 19:37:10</sys_created_on>
+        <sys_id>b378d854646f30107f44e7d634711e59</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Shipments deliver_date</sys_name>
+        <sys_package display_value="Logistics" source="x_snc_logistics">008e0898642f30107f44e7d634711e42</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Logistics">008e0898642f30107f44e7d634711e42</sys_scope>
+        <sys_update_name>sys_sg_item_parameter_b378d854646f30107f44e7d634711e59</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-27 19:37:10</sys_updated_on>
+        <type>string</type>
+    </sys_sg_item_parameter>
+</record_update>

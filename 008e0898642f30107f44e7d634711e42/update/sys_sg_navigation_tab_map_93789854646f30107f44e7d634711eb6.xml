@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_navigation_tab_map">
+    <sys_sg_navigation_tab_map action="INSERT_OR_UPDATE">
+        <navigation display_value="Now Mobile Nav">9f67848187403300e0ef0cf888cb0b2e</navigation>
+        <navigation_tab display_value="Logistics">53789854646f30107f44e7d634711e9c</navigation_tab>
+        <order>3100</order>
+        <sys_class_name>sys_sg_navigation_tab_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-27 19:37:09</sys_created_on>
+        <sys_id>93789854646f30107f44e7d634711eb6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Logistics" source="x_snc_logistics">008e0898642f30107f44e7d634711e42</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Logistics">008e0898642f30107f44e7d634711e42</sys_scope>
+        <sys_update_name>sys_sg_navigation_tab_map_93789854646f30107f44e7d634711eb6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-27 19:37:09</sys_updated_on>
+    </sys_sg_navigation_tab_map>
+</record_update>
